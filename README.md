@@ -72,7 +72,6 @@
 ### 🌸 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhwani172&show_icons=true&theme=omni&title_color=F4A3C5&icon_color=FFC0CB&text_color=FFE5EC&bg_color=0d1117&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhwani172&theme=omni&ring=FFB6C1&fire=E070A0&currStreakLabel=FFC0CB&background=0d1117&hide_border=true" height="160" />
 </p>
 
 <p align="center">
