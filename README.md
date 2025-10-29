@@ -1,6 +1,17 @@
 <!-- 🌸 GITHUB PROFILE README FOR DHWANI 🌸 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=FFB6C1&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Dhwani+🌸;AI+%7C+Cloud+%7C+Data+Science+Engineer+☁️;Welcome+to+my+GitHub!+💻" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F4A3C5&height=120&section=header" />
+</p>
+
+<p align="center">
+  <img src="https://www.svgrepo.com/show/457257/typing.svg" width="80" alt="typing icon"/>
+</p>
+
+<h1 align="center">Hi there, I'm <span style="color:#F4A3C5;">Dhwani 🌸</span></h1>
+
+<p align="center">
+  <em>AI • Cloud • Data Science Engineer ☁️</em><br>
+  <em>Welcome to my GitHub 💻</em>
 </p>
 
 ---
@@ -68,7 +79,6 @@
 <p align="center">
   <a href="mailto:dhwanispatel0217@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/dhwani-patel"><img src="https://img.shields.io/badge/LinkedIn-E070A0?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/dhwani172"><img src="https://img.shields.io/badge/GitHub-F5B7B1?style=for-the-badge&logo=github&logoColor=black" /></a>
 </p>
 
 ---
