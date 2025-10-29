@@ -10,7 +10,6 @@
 <h1 align="center">Hi there, I'm <span style="color:#F4A3C5;">Dhwani 🌸</span></h1>
 
 <p align="center">
-  <em>AI • Cloud • Data Science Engineer ☁️</em><br>
   <em>Welcome to my GitHub 💻</em>
 </p>
 
@@ -18,10 +17,9 @@
 
 ### 🌷 About Me  
 ✨ **Dhwani Patel** (she/her)  
-🎓 Computer Engineering Student at *I²IT, Pune*  
+🎓 Electronics and Telecommunications with Honours in AIML at *I²IT, Pune*  
 💡 Passionate about AI, Cloud Computing, and Intelligent Systems  
-🌈 I love building projects that merge creativity with technology — from ML-powered tools to playful interfaces.  
-📫 Reach me: **dhwanispatel0217@gmail.com**
+💗 I love building projects that merge creativity with technology — from ML-powered tools to playful interfaces.  
 
 ---
 
