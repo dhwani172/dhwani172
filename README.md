@@ -36,21 +36,36 @@
 
 ---
 
-### 💫 Featured Projects  
-<p align="center">
-  <a href="https://github.com/dhwani172/AI-Ops-Companion">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhwani172&repo=AI-Ops-Companion&theme=rose_pine&border_color=F4A3C5" />
-  </a>
-  <a href="https://github.com/dhwani172/gesture-rock-paper-scissors">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhwani172&repo=gesture-rock-paper-scissors&theme=rose_pine&border_color=F4A3C5" />
-  </a>
-  <a href="https://github.com/dhwani172/virtual_keyboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhwani172&repo=virtual_keyboard&theme=rose_pine&border_color=F4A3C5" />
-  </a>
-  <a href="https://github.com/dhwani172/Sudoku-Solver">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhwani172&repo=Sudoku-Solver&theme=rose_pine&border_color=F4A3C5" />
-  </a>
-</p>
+### 💖 Featured Projects  
+
+#### 🌼 [AI-Ops Companion](https://github.com/dhwani172/AI-Ops-Companion)
+> 🧠 *LLM-powered productivity assistant for automated summarization, brainstorming, and task generation.*
+
+- Built an interactive dashboard and API service that transforms raw text into summaries, brainstorms, and action items.  
+- Designed modular pipelines using Hugging Face models, with PII safeguards and real-time latency tracking.  
+- Created a polished dashboard UI/UX with custom CSS/JS — glowing themes, tooltips, and docked info panels.  
+- ✨ *Showcases creative design merged with practical AI engineering.*
+
+---
+
+#### ☁️ Connected Intelligence *(Sponsored by Parabola9)*
+> 🎥 *Edge-to-cloud ALPR system processing multi-camera CCTV feeds in real time.*
+
+- Developed video pipelines across 15–25 concurrent feeds, achieving P95 latency of **3–5s**.  
+- Prototyped GPU workflows using **YOLOv5/YOLOv8** and **PaddleOCR**, optimized for real-time inference.  
+- Built dashboards and APIs (React + FastAPI) to visualize and manage streaming outputs.  
+- Integrated privacy safeguards and monitoring — *a balance of performance, scalability, and responsibility.*
+
+---
+
+#### ✋ [Gesture Rock Paper Scissors](https://github.com/dhwani172/gesture-rock-paper-scissors)
+> 🎮 *Real-time CV-powered game using hand gesture recognition and AI opponents.*
+
+- Implemented gesture detection using **MediaPipe Hands** with geometric heuristics.  
+- Designed multiple AI opponent strategies — random, adaptive, and Markov predictive models.  
+- Optimized performance with frame downscaling, stride-based detection, and OpenCV threading.  
+- Built a lively Streamlit UI: WebRTC camera feed, live scoreboard, tips sidebar, and custom CSS animations.  
+- ☁️ *Deployed seamlessly on Streamlit Cloud.*
 
 ---
 
