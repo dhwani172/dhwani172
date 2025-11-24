@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9b59b6&height=120&section=header" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=CBA0F5&center=true&vCenter=true&width=550&lines=AI+%7C+Cloud+%7C+Intelligent+Systems;Turning+ideas+into+playful+tools;Electronics+%2B+AIML+%3D+fun+chaos" alt="Typing SVG" />
-</p>
 
 <h1 align="center">
   Hi there, I'm <span style="color:#CBA0F5;">Dhwani</span> 💜
@@ -119,7 +116,7 @@
 
 - AWS & Azure cloud architecture  
 - Deep learning with TensorFlow + PyTorch  
-- Building lovable LLM agents with personality (and themes, obviously)  
+- Building lovable LLM agents. 
 
 ---
 
