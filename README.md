@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Hi, I'm <span style="color:#CBA0F5;">Dhwani</span>
+  Hi, I'm <span style="color:#CBA0F5;">Dhwani</span> 👋
 </h1>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ---
 
-## About Me
+## 🌸 About Me
 
 - **Dhwani Patel** (she/her)  
 - Electronics & Telecommunications *(Honours in AIML)* — *I²IT, Pune*  
@@ -29,7 +29,7 @@
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <kbd>Languages & Core</kbd><br/><br/>
@@ -56,14 +56,14 @@
 
 ---
 
-## Featured Projects
+<hr style="border:1px solid #E6D9FF"/>
+
+## 🚀 Featured Projects
 
 <details open>
 <summary><b>AI-Ops Companion</b> — LLM-powered productivity engine</summary>
 
 <br/>
-
-https://github.com/dhwani172/AI-Ops-Companion  
 
 - Modular LLM pipelines for summarization, ideation, and task extraction  
 - PII-aware preprocessing with latency tracking  
@@ -78,7 +78,7 @@ https://github.com/dhwani172/AI-Ops-Companion
 
 - Sponsored by **Parabola9**  
 - 15–25 CCTV feeds with **3–5s P95 latency**  
-- YOLOv5/YOLOv8 with PaddleOCR  
+- YOLOv5 / YOLOv8 with PaddleOCR  
 - React + FastAPI real-time dashboard  
 - Privacy, monitoring, and scalability built-in  
 
@@ -89,8 +89,6 @@ https://github.com/dhwani172/AI-Ops-Companion
 
 <br/>
 
-https://github.com/dhwani172/gesture-rock-paper-scissors  
-
 - MediaPipe Hands with geometric heuristics  
 - Adaptive and Markov-based AI opponents  
 - Streamlit UI with animations and WebRTC  
@@ -99,7 +97,7 @@ https://github.com/dhwani172/gesture-rock-paper-scissors
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhwani172&theme=github_dark" />
@@ -112,7 +110,7 @@ https://github.com/dhwani172/gesture-rock-paper-scissors
 
 ---
 
-## Currently Exploring
+## 🔍 Currently Exploring
 
 - Cloud architecture on AWS and Azure  
 - Deep learning with TensorFlow and PyTorch  
@@ -120,7 +118,16 @@ https://github.com/dhwani172/gesture-rock-paper-scissors
 
 ---
 
-## Connect
+## 🧪 Labs & Experiments
+
+- LLM prompt routing & evaluation  
+- OCR robustness experiments  
+- Video stream buffering & frame-skipping strategies  
+- Multi-model ensemble testing  
+
+---
+
+## 🤝 Connect
 
 <p align="center">
   <a href="mailto:dhwanispatel0217@gmail.com">
