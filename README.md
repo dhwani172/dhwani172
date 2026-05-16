@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Hi, I'm <span style="color:#CBA0F5;">Dhwani</span> 👋
+  Hi, I'm <span style="color:#CBA0F5;">Dhwani</span>
 </h1>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ---
 
-## 🌸 About Me
+## About Me
 
 - **Dhwani Patel** (she/her)  
 - Electronics & Telecommunications *(Honours in AIML)* — *I²IT, Pune*  
@@ -29,7 +29,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <kbd>Languages & Core</kbd><br/><br/>
@@ -58,7 +58,7 @@
 
 <hr style="border:1px solid #E6D9FF"/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <details open>
 <summary><b>AI-Ops Companion</b> — LLM-powered productivity engine</summary>
@@ -97,7 +97,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhwani172&theme=github_dark" />
@@ -110,7 +110,7 @@
 
 ---
 
-## 🔍 Currently Exploring
+## Currently Exploring
 
 - Cloud architecture on AWS and Azure  
 - Deep learning with TensorFlow and PyTorch  
@@ -118,7 +118,7 @@
 
 ---
 
-## 🧪 Labs & Experiments
+## Labs & Experiments
 
 - LLM prompt routing & evaluation  
 - OCR robustness experiments  
@@ -127,7 +127,7 @@
 
 ---
 
-## 🤝 Connect
+## Connect
 
 <p align="center">
   <a href="mailto:dhwanispatel0217@gmail.com">
